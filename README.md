@@ -1,1 +1,6 @@
-# coder_sql
+# Proyecto SQL para Coderhouse
+
+## Primera Pre-Entrega
+
+
+
